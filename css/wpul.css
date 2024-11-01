@@ -1,0 +1,5 @@
+.split { width: 48%; margin: 0 1%; float: left; }
+.link,.name { width: 48%; margin: 0 1%; float: left; }
+@media only all and (max-width:785px){
+    .split { width: 100% !important; float: none !important; }
+}
